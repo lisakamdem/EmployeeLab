@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lab2
 {
+    /// <summary>
+    /// Author: Lisa Kamdem
+    /// Date: feb 3. 2023
+    /// creating the parent class class and the getters and setters
+    /// and also creating a method caled getPay for its children class to override
+    /// </summary>
     internal class Employee
     {
         protected string id;
